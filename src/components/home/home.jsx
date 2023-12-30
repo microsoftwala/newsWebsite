@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { Link } from "react-router-dom";
-import newspaperImage from './news.jpeg';
+import newspaperImage from '../../img/news.jpeg';
 
 function Home(props) {
   const backgroundImageStyle = {
